@@ -1,4 +1,4 @@
-use dioxus::{html::{g::media, h1}, prelude::*};
+use dioxus::prelude::*;
 
 const FAVICON: Asset = asset!("/assets/images/home_icon.svg");
 const MAIN_CSS: Asset = asset!("/assets/style/main.css");
